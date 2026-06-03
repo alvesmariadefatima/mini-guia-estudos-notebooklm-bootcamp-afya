@@ -3,6 +3,12 @@
 ![NotebookLM](https://img.shields.io/badge/Google-NotebookLM-orange)
 ![Status](https://img.shields.io/badge/Status-concluido-green)
 
+Os resumos abaixo foram elaborados por mim a partir das fontes estudadas no NotebookLM e representam uma síntese autoral dos conceitos considerados mais relevantes para revisão.
+
+## Transparência sobre o uso de IA
+
+Este material foi desenvolvido com apoio do Google NotebookLM como ferramenta de estudo, organização de conhecimento e síntese de informações. Todas as fontes utilizadas estão listadas neste repositório e os conteúdos foram revisados e adaptados por mim.
+
 ## 📖 Sobre o Projeto
 
 Este repositório reúne meu caderno temático produzido no Bootcamp Afya Automação de Dados com Python, utilizando o Google NotebookLM como ferramenta de apoio aos estudos.
@@ -39,31 +45,26 @@ As fontes abaixo foram selecionadas, enviadas ao NotebookLM e serviram de base p
 - Link: https://www.deeplearningbook.org/  
 - Tipo: Livro online (texto)  
 - Por que escolhi: base sólida em ML/DL com linguagem acessível  
-- Data de acesso: [preencher]
 
 2) Attention Is All You Need — Vaswani et al. (2017)  
 - Link: https://arxiv.org/pdf/1706.03762.pdf  
 - Tipo: Artigo científico (PDF)  
 - Por que escolhi: marco da arquitetura Transformer, essencial para LLMs  
-- Data de acesso: [preencher]
 
 3) The Illustrated Transformer — Jay Alammar  
 - Link: http://jalammar.github.io/illustrated-transformer/  
 - Tipo: Artigo técnico ilustrado (texto)  
 - Por que escolhi: visualizações claras da arquitetura e intuições práticas  
-- Data de acesso: [preencher]
 
 4) IBM — O que é Machine Learning? (pt-BR)  
 - Link: https://www.ibm.com/br-pt/think/topics/machine-learning  
 - Tipo: Artigo de referência (texto)  
 - Por que escolhi: visão introdutória em português, útil para contextualização  
-- Data de acesso: [preencher]
 
 5) NIST AI Risk Management Framework (AI RMF 1.0)  
 - Link: https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf  
 - Tipo: Framework oficial (PDF)  
 - Por que escolhi: visão de riscos, governança e boas práticas em IA  
-- Data de acesso: [preencher]
 
 Observação importante: substituí as fontes anteriores que eram sobre investimentos/Benjamin Graham para manter coerência com o tema de IA. Se preferir manter o tema de investimentos, ajuste o “Tema” e os “Objetivos” para esse domínio.
 
