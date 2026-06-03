@@ -31,34 +31,52 @@ O NotebookLM foi utilizado para organizar fontes, sintetizar conteúdos, gerar r
 As seguintes fontes abertas foram utilizadas no NotebookLM:
 
 ## Fonte 1
-
-Google Cloud Skills Boost - Introduction to Generative AI
-
-[https://www.cloudskillsboost.google](https://www.cloudskillsboost.google)
+https://br.investing.com/academy/analysis/formula-benjamin-graham
 
 ## Fonte 2
-
-Google AI Essentials
-
-[https://grow.google/ai](https://grow.google/ai)
+https://blog.genialinvestimentos.com.br/5-ensinamentos-de-benjamin-graham-para-voce-investir/
 
 ## Fonte 3
-
-Documentação Oficial do TensorFlow
-
-[https://www.tensorflow.org/learn](https://www.tensorflow.org/learn)
+https://aprenderepraticar.com/investidor-inteligente-principios-benjamin-graham/
 
 ## Fonte 4
-
-Documentação Oficial da OpenAI
-
-[https://platform.openai.com/docs](https://platform.openai.com/docs)
+https://www.diariodeinvestimentos.com.br/formula-de-benjamin-graham/
 
 ## Fonte 5
+https://www.gandiniinveste.com/post/o-investidor-inteligente-conceitos-do-livro-e-f%C3%B3rmula-de-graham
 
-Documentação Oficial do Google Gemini
+## Fonte 6
+https://www.youtube.com/watch?v=cWNqf1gifR8
 
-[https://ai.google.dev](https://ai.google.dev)
+## Fonte 7
+https://www.youtube.com/watch?v=9fZ3H1yHb_E
+
+## Fonte 8
+https://www.c6bank.com.br/blog/benjamin-graham
+
+## Fonte 9
+https://blog.toroinvestimentos.com.br/bolsa/formula-de-graham/
+
+## Fonte 10
+https://investidoremvalor.com/investimento-x-especulacao/
+
+## Fonte 11
+https://www.youtube.com/watch?v=aQQZknO3EJY
+
+## Fonte 12
+https://flj.com.br/renda-variavel/teoria-benjamin-graham/
+
+## Fonte 13
+https://www.youtube.com/watch?v=T2kL3ejVGdI
+
+## Fonte 14
+https://conteudos.xpi.com.br/private/recap-semanal-private/recap-semanal-18-01-intelligent-investor-capitulo-20-margem-de-seguranca/
+
+## Fonte 15
+https://content.btgpactual.com/blog/indicacoes-btg/resenha-o-investidor-inteligente-de-benjamin-graham
+
+## Fonte 16
+https://revistas.pucsp.br/index.php/CAFI/article/view/65982
 
 ---
 
