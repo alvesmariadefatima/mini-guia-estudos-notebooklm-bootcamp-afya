@@ -212,7 +212,7 @@ Aprendizado:
 - Revisão Rápida
 Você é um(a) especialista em [TEMA] explicando para [PÚBLICO-ALVO], nível [NÍVEL]. Produza um resumo objetivo em até 10 tópicos, cobrindo: definição, por que importa, componentes-chave, fluxo/arquitetura (se houver), exemplos práticos no Brasil, erros comuns, métricas/indicadores, boas práticas e próximos passos. Cite fontes quando possível. Não invente dados.
 
-- Preparação para Certificação
+- **Preparação para Certificação**
 Você é um(a) instrutor(a) sênior de [TEMA] com foco na certificação [CERTIFICAÇÃO]. Público: [NÍVEL], experiência [EXPERIÊNCIA PRÉVIA], tempo [TEMPO DISPONÍVEL]. Entregue:
 1) Domínios e objetivos (pesos se públicos)
 2) 10–15 tópicos essenciais
@@ -222,13 +222,13 @@ Você é um(a) instrutor(a) sênior de [TEMA] com foco na certificação [CERTIF
 6) Glossário de 20 termos
 7) Checklist pré-prova
 
-- Criação de Flashcards
+- **Criação de Flashcards**
 Gere 20 flashcards sobre [TEMA], nível [NÍVEL]. Misture: conceito/definição, cenários práticos, antipadrões. Para cada card: Pergunta, Resposta curta, Dica mnemônica (opcional), Dificuldade (1–5), Tags.
 
-- Simulado
+- **Simulado**
 Crie 10 questões de múltipla escolha sobre [TEMA], nível [NÍVEL], estilo [ESTILO]. [NÚMERO_DE_OPÇÕES] alternativas, 1 correta. Balanceie dificuldade. Liste subtemas antes. Inclua Gabarito Comentado e Rubrica de Desempenho.
 
-- Mapa Mental
+- **Mapa Mental**
 Gere um mapa mental hierárquico de [TEMA] com profundidade [PROFUNDIDADE], cobrindo [FOCO]. Estruture com nó raiz, 5–7 pilares, sub-ramos (definições, exemplos BR, métricas, riscos). Entregue versão hierárquica e versão compacta por palavras-chave.
 
 ### 4) Como usar este miniguia (roteiro rápido de 7 dias)
@@ -240,5 +240,4 @@ Gere um mapa mental hierárquico de [TEMA] com profundidade [PROFUNDIDADE], cobr
 - Dia 5: Agentes (30–40 min) — percepção→ação; mini projeto mental
 - Dia 6: Revisão guiada com “Revisão Rápida” + mapa mental
 - Dia 7: Simulado completo + gabarito comentado e ajustes finais
-
 ---
